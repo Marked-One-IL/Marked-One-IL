@@ -14,6 +14,7 @@ Other than that, my life is as empty as my fridge.
 
 ## Best Projects
 [![Monolith-Github](https://img.shields.io/badge/Github-Monolith-gray?logo=github&logoColor=white)](https://github.com/Marked-One-IL/Monolith)<br>
+[![Monolith-Semi-Tetris-Github](https://img.shields.io/badge/Github-Monolith--Semi--Tetris-gray?logo=github&logoColor=white)](https://github.com/Marked-One-IL/Semi-Tetris-Monolith/)<br>
 [![Trivia](https://img.shields.io/badge/Github-Trivia-gray?logo=github&logoColor=white)](https://github.com/Marked-One-IL/Trivia)<br>
 [![Server-Broker-Github](https://img.shields.io/badge/Github-Server--Broker-gray?logo=github&logoColor=white)](https://github.com/Marked-One-IL/Server-Broker-Electronic-Project)<br>
 
