@@ -12,6 +12,7 @@ Other than that, my life is as empty as my fridge.
 - Assembly
 - Python
 - Monolith (I made it)
+- Java (Currently learning)
 
 ## Best Projects
 [![Monolith-Github](https://img.shields.io/badge/Github-Monolith-gray?logo=github&logoColor=white)](https://github.com/Marked-One-IL/Monolith)<br>
