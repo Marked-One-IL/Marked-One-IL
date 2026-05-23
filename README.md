@@ -1,7 +1,7 @@
 ## About Me
 My name is Neriah Elbaz, and I'm 18 years old.<br>
 I specialize in low-level programming, mainly in C/C++, ASM, and networking.<br>
-I also do CTF and reverse engineering challenges.<br>
+I also do CTF and reverse engineering challenges and IoT.<br>
 I'm interested in graphics programming and game development.<br>
 Other than that, my life is as empty as my fridge.
 
@@ -18,7 +18,8 @@ Other than that, my life is as empty as my fridge.
 [![Monolith-Github](https://img.shields.io/badge/Github-Monolith-gray?logo=github&logoColor=white)](https://github.com/Marked-One-IL/Monolith)<br>
 [![Monolith-Semi-Tetris-Github](https://img.shields.io/badge/Github-Monolith--Semi--Tetris-gray?logo=github&logoColor=white)](https://github.com/Marked-One-IL/Semi-Tetris-Monolith/)<br>
 [![Trivia](https://img.shields.io/badge/Github-Trivia-gray?logo=github&logoColor=white)](https://github.com/Marked-One-IL/Trivia)<br>
-[![Server-Broker-Github](https://img.shields.io/badge/Github-Server--Broker-gray?logo=github&logoColor=white)](https://github.com/Marked-One-IL/Server-Broker-Electronic-Project)<br>
+[![Server-Broker-Electronic-Project-Github](https://img.shields.io/badge/Github-Server--Broker--Electronic--Project-gray?logo=github&logoColor=white)](https://github.com/Marked-One-IL/Server-Broker-Electronic-Project)<br>
+[![Electronic-Project-Arduino-Main-Github](https://img.shields.io/badge/Github-Electronic--Project--Arduino--Main-gray?logo=github&logoColor=white)](https://github.com/Marked-One-IL/Electronic-Project-Arduino-Main)<br>
 
 ## Socials
 [![YouTube](https://img.shields.io/badge/Youtube-Marked_One-red?logo=youtube&logoColor=white)](https://www.youtube.com/@MarkedOneIL)<br>
