@@ -18,9 +18,7 @@ Other than that, my life is as empty as my fridge.
 [![Monolith-Github](https://img.shields.io/badge/Github-Monolith-gray?logo=github&logoColor=white)](https://github.com/Marked-One-IL/Monolith)<br>
 [![Monolith-Semi-Tetris-Github](https://img.shields.io/badge/Github-Monolith--Semi--Tetris-gray?logo=github&logoColor=white)](https://github.com/Marked-One-IL/Semi-Tetris-Monolith/)<br>
 [![Trivia](https://img.shields.io/badge/Github-Trivia-gray?logo=github&logoColor=white)](https://github.com/Marked-One-IL/Trivia)<br>
-[![Server-Broker-Electronic-Project-Github](https://img.shields.io/badge/Github-Server--Broker--Electronic--Project-gray?logo=github&logoColor=white)](https://github.com/Marked-One-IL/Server-Broker-Electronic-Project)<br>
-[![Electronic-Project-Arduino-Main-Github](https://img.shields.io/badge/Github-Electronic--Project--Arduino--Main-gray?logo=github&logoColor=white)](https://github.com/Marked-One-IL/Electronic-Project-Arduino-Main)<br>
-[![Electronic-Project-Arduino-Second-Github](https://img.shields.io/badge/Github--Electronic--Project--Arduino--Second-gray?logo=github&logoColor=white)](https://github.com/Marked-One-IL/Electronic-Project-Arduino-Second)<br>
+[![Greenhouse-Monitor-School-Github](https://img.shields.io/badge/Github-Greenhouse--Monitor--School-gray?logo=github&logoColor=white)](https://github.com/Marked-One-IL/Greenhouse-Monitor-School)<br>
 
 ## Socials
 [![YouTube](https://img.shields.io/badge/Youtube-Marked_One-red?logo=youtube&logoColor=white)](https://www.youtube.com/@MarkedOneIL)<br>
