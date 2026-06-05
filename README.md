@@ -3,7 +3,6 @@ My name is Neriah Elbaz, and I'm 18 years old.<br>
 I specialize in low-level programming, mainly in C/C++, ASM, and networking.<br>
 I also do CTF and reverse engineering challenges and IoT.<br>
 I'm interested in graphics programming and game development.<br>
-Other than that, my life is as empty as my fridge.
 
 ## Languages I know
 - C
