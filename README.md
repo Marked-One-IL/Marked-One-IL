@@ -10,9 +10,9 @@ I'm interested in graphics programming and game development.<br>
 - C#
 - Assembly
 - Python
-- Monolith (See projects bellow)
 - Java
 - Rust (Currently learning)
+- Monolith (See projects bellow)
 
 ## Best Projects
 [![Monolith-Github](https://img.shields.io/badge/Github-Monolith-gray?logo=github&logoColor=white)](https://github.com/Marked-One-IL/Monolith)<br>
