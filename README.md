@@ -4,20 +4,29 @@ I specialize in low-level programming, mainly in C/C++, ASM, and networking.<br>
 I also do CTF and reverse engineering challenges and IoT.<br>
 I'm interested in graphics programming and game development.<br>
 
-## Languages I know
+## Languages that define me
 - C
 - C++
-- C#
 - Assembly
-- Python
+- Monolith (I made it)
+
+## Other Languages that I'm good at
+- C#
 - Java
+- Python
 - Rust (Currently learning)
-- Monolith (See projects below)
 
 ## Best Projects
+Compiler & Language that translates to x86 ASM for Windows (Full Lexer to Codegen implementation)<br>
 [![Monolith-Github](https://img.shields.io/badge/Github-Monolith-gray?logo=github&logoColor=white)](https://github.com/Marked-One-IL/Monolith)<br>
+
+Tetris clone created in the Monolith language + Windows API<br>
 [![Monolith-Semi-Tetris-Github](https://img.shields.io/badge/Github-Monolith--Semi--Tetris-gray?logo=github&logoColor=white)](https://github.com/Marked-One-IL/Semi-Tetris-Monolith/)<br>
+
+Kahoot clone with C++ multithreaded server (Backend) and C# client (Frontend)<br>
 [![Trivia](https://img.shields.io/badge/Github-Trivia-gray?logo=github&logoColor=white)](https://github.com/Marked-One-IL/Trivia)<br>
+
+Greenhouse monitoring via 2 ESPs, C++ multithreaded broker server and an HTML website<br>
 [![Greenhouse-Monitor-School-Github](https://img.shields.io/badge/Github-Greenhouse--Monitor--School-gray?logo=github&logoColor=white)](https://github.com/Marked-One-IL/Greenhouse-Monitor-School)<br>
 
 ## Socials
