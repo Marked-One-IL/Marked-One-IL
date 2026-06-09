@@ -12,7 +12,7 @@ I'm interested in graphics programming and game development.<br>
 - Python
 - Java
 - Rust (Currently learning)
-- Monolith (See projects bellow)
+- Monolith (See projects below)
 
 ## Best Projects
 [![Monolith-Github](https://img.shields.io/badge/Github-Monolith-gray?logo=github&logoColor=white)](https://github.com/Marked-One-IL/Monolith)<br>
