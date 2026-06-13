@@ -31,5 +31,5 @@ Greenhouse monitoring via 2 ESPs, C++ multithreaded broker server and an HTML we
 
 ## Socials
 [![YouTube](https://img.shields.io/badge/Youtube-Marked_One-red?logo=youtube&logoColor=white)](https://www.youtube.com/@MarkedOneIL)<br>
-[![Discord](https://img.shields.io/badge/Discord-quest__find__bread-5865F2?logo=discord&logoColor=white)](https://discord.com/users/501045313566408763)<br>
+[![Discord](https://img.shields.io/badge/Discord-cain__walsh-5865F2?logo=discord&logoColor=white)](https://discord.com/users/501045313566408763)<br>
 [![Email](https://img.shields.io/badge/Email-strelokoneil@gmail.com-orange?logo=gmail&logoColor=white)](mailto:strelokoneil@gmail.com)
