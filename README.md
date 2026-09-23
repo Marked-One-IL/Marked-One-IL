@@ -2,19 +2,6 @@
 My name is Neriah Elbaz, and I'm 18 years old.<br>
 I specialize in low-level programming, mainly in C/C++, ASM, and networking.<br>
 I also do CTF and reverse engineering challenges and IoT.<br>
-I'm interested in graphics programming and game development.<br>
-
-## Languages that define me
-- C
-- C++
-- Assembly
-- Monolith (I made it)
-
-## Other Languages that I'm good at
-- C#
-- Java
-- Python
-- Rust (Currently learning)
 
 ## Best Projects
 Compiler & Language that translates to x86 ASM for Windows (Full Lexer to Codegen implementation)<br>
